@@ -1094,9 +1094,9 @@ const reactionMessage = {
                 const timestampe = speed();
 const latensie = speed() - timestampe
                 const menulist = `┌─❖
-│「 Hi 👋 」
+│「 𝗛𝗜 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  How Are You? 😄
+┌┤✑  𝗛𝗢𝗪 𝗔𝗥𝗘 𝗬𝗢𝗨 
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
@@ -2394,9 +2394,9 @@ if (isBanChat) return reply(mess.banChat)
                 if (!m.isGroup) return replay(`${mess.group}`)
                 if (!isBotAdmins) return replay(`${mess.botAdmin}`)
                 if (!isAdmins) return replay(`${mess.admin}`)
-let teks = `╚»˙·٠•●♥ Tag All ♥●•٠·˙«╝ 
+let teks = `╚𝗧𝗔𝗚 𝗔𝗟𝗟╝ 
  
- ➲ *Message : ${q ? q : 'no message'}*\n\n`
+ ➲ 𝗠𝗦𝗚 𝗧𝗔𝗚 : ${q ? q : 'no message'}*\n\n`
                 for (let mem of participants) {
                 teks += `${themeemoji} @${mem.id.split('@')[0]}\n`
                 }
