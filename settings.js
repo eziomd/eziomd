@@ -70,7 +70,7 @@ global.botscript = '𝗗𝗜𝗖𝗞' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" //ur sticker watermark packname
-global.author = "™️" //ur sticker watermark author
+global.author = "‌" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
