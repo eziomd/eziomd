@@ -63,7 +63,7 @@ global.location = "𝗞𝗞" //ur location
 //bot bomdy 
 global.owner = ['989935689926']
 global.ownertag = 'wa.me/989935689926' //ur tag number
-global.botname = '𝖤𝖹𝖨𝖮 𝖡𝖮𝖳 𝖬𝖣 𝖵4' //ur bot name
+global.botname = '𝗗𝗗𝗢𝗦 𝗕𝗢𝗧 𝗪𝗠-𝟰' //ur bot name
 global.linkz = "𝗗𝗜𝗖𝗞" //your theme url which will be displayed on whatsapp
 global.websitex = "𝗗𝗜𝗖𝗞" //ur website to be displayed
 global.botscript = '𝗗𝗜𝗖𝗞' //script link
